@@ -1,0 +1,63 @@
+[
+
+	{
+		"url": "http://www.snapdeal.com",
+		"image": "images/snapdeal.jpg",
+		"alt": "Snapdeal"
+	},
+	{
+		"url": "http://www.commonfloor.com/",
+		"image": "images/commonfloor.png",
+		"alt": "Commonfloor"
+	},
+	{
+		"url": "http://www.shopclues.com",
+		"image": "images/shopclues.jpg",
+		"alt": "Shopclues"
+	},
+	{
+		"url": "http://www.lbsglobalenergysummit.com/",
+		"image": "images/lbsglobalenergysummit.jpg",
+		"alt": "London Bussiness School"
+	},
+	{
+		"url": "http://www.edukart.com/",
+		"image": "images/edukart.jpg",
+		"alt": "Edukart"
+	},
+	{
+		"url": "http://www.intuit.com/",
+		"image": "images/intuit.jpg",
+		"alt": "Intuit"
+	},
+	{
+		"url": "http://www.alexandalexa.com/",
+		"image": "images/alexandalexa.jpg",
+		"alt": "Alexandalexa"
+	},
+	{
+		"url": "http://www.exclusively.in/",
+		"image": "images/exclusively.jpg",
+		"alt": "Exclusively"
+	},
+	{
+		"url": "http://www.fashionandyou.com/",
+		"image": "images/fashionandyou.jpg",
+		"alt": "Fashionandyou"
+	},
+	{
+		"url": "http://www.angara.com/",
+		"image": "images/angara.jpg",
+		"alt": "Angara"
+	},
+	{
+		"url": "http://www.vuclip.com/",
+		"image": "images/vuclip.jpg",
+		"alt": "Vuclip"
+	},
+	{
+		"url": "http://www.imeurope.co.uk/",
+		"image": "images/imeurope.jpg",
+		"alt": "Imeurope"
+	}
+]
